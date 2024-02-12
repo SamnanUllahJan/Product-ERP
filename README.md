@@ -1,4 +1,4 @@
-# Acculance v4.0.0
+# Product ERP
 
 ## Running Demo Seeder
 
